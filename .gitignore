@@ -1,3 +1,4 @@
 references/
 *.code-workspace
 no_git/
+.DS_Store
